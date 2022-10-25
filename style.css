@@ -1,0 +1,39 @@
+nav > span {
+  background-color: darkcyan;
+}
+
+div > h1:first-of-type {
+  font-weight: bold;
+}
+
+.font-weight-bold {
+  color: bisque;
+}
+
+.blog-post:first-of-type hr {
+  border-color: red;
+}
+
+div ol a:first-child {
+  color: brown;
+}
+
+.blog-post:nth-child(3) {
+  color: gray;
+}
+
+.blog-post:last-of-type li:nth-child(2) {
+  color: red;
+}
+
+a:last-of-type {
+  color: black;
+}
+
+.blog-pagination a:last-of-type {
+  color: green;
+}
+
+footer a:last-child {
+  color: green;
+}
