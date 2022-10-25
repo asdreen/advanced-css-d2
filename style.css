@@ -1,39 +1,49 @@
+/* exercise 2 */
 nav > span {
   background-color: darkcyan;
 }
 
+/* exercise 1 */
 div > h1:first-of-type {
   font-weight: bold;
 }
 
-.font-weight-bold {
-  color: bisque;
-}
-
-.blog-post:first-of-type hr {
-  border-color: red;
-}
-
-div ol a:first-child {
-  color: brown;
-}
-
-.blog-post:nth-child(3) {
-  color: gray;
-}
-
-.blog-post:last-of-type li:nth-child(2) {
-  color: red;
-}
-
+/* exercise 3 */
 a:last-of-type {
   color: black;
 }
 
+/* exercise 6 */
+nav span:nth-child(even) {
+  color: blue;
+}
+
+/* exercise 4, 5 */
+.blog-post:first-of-type hr {
+  border-color: red;
+}
+
+/* exercise 7 */
+div ol a:first-child {
+  color: brown;
+}
+
+/* exercise 8 */
+.blog-post:nth-child(3) {
+  color: gray;
+}
+
+/* exercise 9 */
+.blog-post:last-of-type li:nth-child(2) {
+  color: red;
+}
+
+/* exercise 10 */
 .blog-pagination a:last-of-type {
   color: green;
 }
 
+/* exercise 11 */
 footer a:last-child {
   color: green;
 }
